@@ -1,6 +1,6 @@
 # Clone o repositorio:
 ```sh
-$ git clone https://github.com/cristyz/TaskList-React.git
+$ git clone https://github.com/cristyz/MyFood-Redux.git
 ```
 
 # Instale as dependencias:
