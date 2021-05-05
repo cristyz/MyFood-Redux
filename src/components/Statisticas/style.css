@@ -1,0 +1,8 @@
+.saudavel{
+    background-image: linear-gradient(#00adb5, #eeeeee);
+    height: 1%;
+}
+.nao-saudavel{
+    background-image: linear-gradient(#b50000, #eeeeee);
+    height: 1%;
+}
